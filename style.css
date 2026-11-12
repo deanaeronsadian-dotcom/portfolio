@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #3a0005;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 8%;
+    background: #e65e03;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+section {
+    padding: 100px 10%;
+    min-height: 300px;
+}
+
+h1 {
+    font-size: 45px;
+    color: #f5f5f5;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
